@@ -55,3 +55,18 @@ The features of the dataset are:
 **best bowling figure**: the number of wickets taken and runs given by the best bowler in the match
 
 
+
+**DOMAIN -**
+
+Data Analysis
+
+
+**PROJECT TYPE -**
+
+Individual
+
+
+![image](https://github.com/gargichoudhary12/T20-World-Cup-2022-Analysis/assets/104214078/b65f80b7-f5d6-4723-bb5e-f1b7524cf642)
+
+![image](https://github.com/gargichoudhary12/T20-World-Cup-2022-Analysis/assets/104214078/52ef1ffc-7c23-4f64-8433-77eb89f9d57a)
+
