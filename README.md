@@ -1,9 +1,7 @@
 # T20-World-Cup-2022-Analysis
 
 
-**PROJECT DESCRIPTION -** 
-
-To analyse the T20 World Cup statistics and performance of players and teams using different data visualization tools and python.
+**PROJECT DESCRIPTION -**  To analyse the T20 World Cup statistics and performance of players and teams using different data visualization tools and python.
 
 
 
@@ -14,9 +12,7 @@ To analyse the T20 World Cup statistics and performance of players and teams usi
 
 
 
-**DATASET USED -** 
-
-The data for this project has been obtained through online sources (https://statso.io/t20-world-cup-2022-dataset/). It contains data about all the matches of the ICC Men's T20 World Cup 2022.
+**DATASET USED -** The data for this project has been obtained through online sources (https://statso.io/t20-world-cup-2022-dataset/). It contains data about all the matches of the ICC Men's T20 World Cup 2022.
 
 The features of the dataset are:
 
@@ -56,14 +52,10 @@ The features of the dataset are:
 
 
 
-**DOMAIN -**
-
-Data Analysis
+**DOMAIN -** Data Analysis
 
 
-**PROJECT TYPE -**
-
-Individual
+**PROJECT TYPE -** Individual
 
 
 ![image](https://github.com/gargichoudhary12/T20-World-Cup-2022-Analysis/assets/104214078/b65f80b7-f5d6-4723-bb5e-f1b7524cf642)
