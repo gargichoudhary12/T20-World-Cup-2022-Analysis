@@ -1,19 +1,20 @@
 # T20-World-Cup-2022-Analysis
 
 
-PROJECT DESCRIPTION - 
+**PROJECT DESCRIPTION -** 
 
 To analyse the T20 World Cup statistics and performance of players and teams using different data visualization tools and python.
 
 
 
-PREREQUISITES - 
+
+**PREREQUISITES -** 
 1. Python
 2. Google Colab
 
 
 
-DATASET USED - 
+**DATASET USED -** 
 
 The data for this project has been obtained through online sources (https://statso.io/t20-world-cup-2022-dataset/). It contains data about all the matches of the ICC Men's T20 World Cup 2022.
 
