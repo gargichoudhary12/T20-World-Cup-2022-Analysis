@@ -4,7 +4,7 @@
 **PROJECT DESCRIPTION -**  To analyse the T20 World Cup statistics and performance of players and teams using different data visualization tools and python.
 
 
-
+  
 
 **PREREQUISITES -** 
 1. Python
@@ -51,7 +51,7 @@ The features of the dataset are:
 **best bowling figure**: the number of wickets taken and runs given by the best bowler in the match
 
 
-
+  
 **DOMAIN -** Data Analysis
 
 
