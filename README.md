@@ -8,7 +8,7 @@
   
 
 - **PREREQUISITES -** 
-1. Python
+1. Python (libraries - pandas, plotly)
 2. Google Colab
 
 
